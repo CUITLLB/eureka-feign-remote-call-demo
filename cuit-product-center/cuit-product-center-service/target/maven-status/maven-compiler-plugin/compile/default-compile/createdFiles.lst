@@ -1,0 +1,3 @@
+cn\cuit\product\center\service\App.class
+cn\cuit\product\center\service\impl\ProductServiceImpl.class
+cn\cuit\product\center\service\controller\ProductController.class
